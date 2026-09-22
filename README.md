@@ -151,9 +151,9 @@ New users can register through the application.
 Example:
 
 ```
-Username : Prajwal93
-Email    : praj@gmail.com
-Password : Praju123
+Username : Vandana31
+Email    : vandu@gmail.com
+Password : vandu@123
 ```
 
 ---
